@@ -2,17 +2,6 @@
 
 A Model Context Protocol (MCP) server for integrating with Azure DevOps services. This server implements tools for querying Azure DevOps repositories, pull requests, and other resources through the MCP interface.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Available Tools](#available-tools)
-- [Development](#development)
-- [License](#license)
-
 ## Overview
 
 This MCP server provides a standardized way to interact with Azure DevOps resources through the Model Context Protocol. It can be used to query repositories, pull requests, and other Azure DevOps resources, making them accessible to AI assistants and other tools that support MCP.
